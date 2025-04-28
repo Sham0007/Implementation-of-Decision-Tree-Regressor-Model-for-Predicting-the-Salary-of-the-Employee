@@ -58,12 +58,19 @@ print("New prediction:", dt.predict(np.array([[5, 6]])))
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/1008730d-9ed6-4086-ba6e-e83060119de7)
+
 ![image](https://github.com/user-attachments/assets/902aef33-6e86-4579-9f3b-009ab3ac7fbd)
+
 ![image](https://github.com/user-attachments/assets/6fe77711-a574-481e-ad99-5e9394de2ffa)
+
 ![image](https://github.com/user-attachments/assets/478d91dd-fffc-4f61-9c69-101002cbbfa8)
+
 ![image](https://github.com/user-attachments/assets/9d86c768-9a77-4153-8e02-3b0b03e40b6c)
+
 ![image](https://github.com/user-attachments/assets/33bd6fea-a162-4e5f-862c-4ee5aed3dda8)
+
 ![image](https://github.com/user-attachments/assets/c51907a5-b751-44de-9258-6ecfa274c2c1)
+
 ![image](https://github.com/user-attachments/assets/1ba6680a-0ae8-452e-a9fe-6148c7f0f99d)
 
 
